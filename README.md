@@ -1,11 +1,11 @@
 # MCRL: Modelo de Calificación de Riesgo Logístico para la Exportación de Cerezas
 
-Este repositorio contiene la implementación técnica del **Modelo MCRL**, desarrollado como núcleo del Proyecto de Título para optar al grado de **Ingeniero Civil Industrial**. El software integra simulación estocástica, cinética de deterioro de alimentos y analítica predictiva para optimizar la cadena de suministro de cerezas chilenas hacia mercados internacionales.
+Este repositorio contiene la implementación técnica del **MCRL**, desarrollado como núcleo del Proyecto de Título para optar al grado de **Ingeniero Civil Industrial**. El software integra simulación estocástica, cinética de deterioro de alimentos y analítica predictiva para optimizar la cadena de suministro de cerezas chilenas hacia mercados internacionales.
 
 ---
 
 ## 📋 Descripción General
-El modelo MCRL evalúa el impacto de la variabilidad logística (tiempos de tránsito y quiebres térmicos) sobre la condición final de la fruta. A diferencia de un análisis estático, este sistema permite predecir el **Nivel de Riesgo Logístico** de cada lote antes de su llegada a destino, permitiendo una toma de decisiones proactiva.
+El MCRL evalúa el impacto de la variabilidad logística (tiempos de tránsito y quiebres térmicos) sobre la condición final de la fruta. A diferencia de un análisis estático, este sistema permite predecir el **Nivel de Riesgo Logístico** de cada lote antes de su llegada a destino, permitiendo una toma de decisiones proactiva.
 
 ## ⚙️ Arquitectura del Proyecto
 El sistema se divide en tres capas fundamentales:
